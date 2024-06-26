@@ -1,6 +1,5 @@
 import torch
 import torch.nn as nn
-import torch.optim as optim
 from torchvision import transforms, datasets
 from torch.utils.data import DataLoader
 import torch.nn.functional as F
